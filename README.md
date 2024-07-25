@@ -11,3 +11,5 @@ Get session 🆔 for your bots from this site
 
 ##TO GET SESSION ID FOR CYBERION-SPARK-MD 
  [`TAP HERE`]
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
