@@ -4,3 +4,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 Get session 🆔 for your bots from this site
 
+##TO GET SESSION ID FOR  CARL-SHARK MD 
+[`TAP HERE`]
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+##TO GET SESSION ID FOR CYBERION-SPARK-MD 
+ [`TAP HERE`]
