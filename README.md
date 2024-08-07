@@ -4,6 +4,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 Get session 🆔 for your bots from this site
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗙𝗢𝗥+𝗖𝗔𝗥𝗟+𝗦𝗛𝗔𝗥𝗞+𝗠𝗗)](https://git.io/typing-svg)
 ##𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑰𝑫 𝑭𝑶𝑹 𝑪𝑨𝑹𝑳-𝑺𝑯𝑨𝑹𝑲 𝑴𝑫
   1 𝑺𝑪𝑨𝑵𝑵𝑰𝑵𝑮 𝑸𝑹 𝑪𝑶𝑫𝑬 𝑾𝑰𝑻𝑯 𝑨𝑵 𝑬𝑿𝑻𝑬𝑹𝑵𝑨𝑳 𝑷𝑯𝑶𝑵𝑬 𝑪𝑨𝑴𝑬𝑹𝑨
   
