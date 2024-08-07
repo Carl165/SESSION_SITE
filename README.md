@@ -16,7 +16,7 @@ Get session 🆔 for your bots from this site
   [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`](https://carlsharkmd-15a24b45fb87.herokuapp.com/qr)
 
   1:𝑳𝑰𝑵𝑲𝑰𝑵𝑮 𝑽𝑰𝑨 𝑷𝑨𝑰𝑹 𝑪𝑶𝑫𝑬𝑺
-          >>>ｗｈａｔｓａｐｐ 3ｄｏｔｓ>>ｌｉｎｋｅｄ ｄｅｖｉｃｅｓ >>ｕｓｅ ｍｏｂｉｌｅ ｉｎｓｔｅａｄ
+          >>>Whatsapp 3dots >>>>linked devices >>>link a device >>>Use mobile number instead
           
    [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`](https://carlsharkmd-15a24b45fb87.herokuapp.com/pair)
 
