@@ -40,8 +40,10 @@ Get session 🆔 for your bots from this site
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗙𝗢𝗥+𝗕𝗟𝗨𝗘+𝗕𝗘𝗘𝗧𝗟𝗘)](https://git.io/typing-svg)
- 1:𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑰𝑫 𝑩𝒀 𝑷𝑨𝑰𝑹 𝑫𝑶𝑬𝑺
-        >>> whatsapp 3dots >>>linked devices >>>link a device >>>use mobile number instead >>>enter code in the given field
+
+ 1:𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑰𝑫 𝑩𝒀 𝑷𝑨𝑰𝑹 𝑪𝑶𝑫𝑬𝑺
+ 
+   >>> whatsapp 3dots >>>linked devices >>>link a device >>>use mobile number instead >>>enter code in the given field
         
   [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`]
 
