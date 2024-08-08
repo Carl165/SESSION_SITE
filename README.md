@@ -37,3 +37,18 @@ Get session 🆔 for your bots from this site
  [`TAP HERE`](https://cyberionsparkmd-68c4a6459d3b.herokuapp.com)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗙𝗢𝗥+𝗕𝗟𝗨𝗘+𝗕𝗘𝗘𝗧𝗟𝗘)](https://git.io/typing-svg)
+ 1:𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑰𝑫 𝑩𝒀 𝑷𝑨𝑰𝑹 𝑫𝑶𝑬𝑺
+        >>> whatsapp 3dots >>>linked devices >>>link a device >>>use mobile number instead >>>enter code in the given field
+        
+  [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`]
+
+  2:𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑩𝒀 𝑺𝑪𝑨𝑵𝑵𝑰𝑵𝑮 𝑸𝑹 𝑼𝑺𝑰𝑵𝑮 𝑬𝑿𝑻𝑬𝑹𝑵𝑨𝑳 𝑷𝑯𝑶𝑵𝑬 𝑪𝑨𝑴𝑬𝑹𝑨
+  
+  [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`]
+
+  3:𝑻𝑶 𝑮𝑬𝑻 𝑨𝑳𝑳.𝑺𝑬𝑺𝑺𝑰𝑶𝑵𝑺 𝑰𝑵 𝑮𝑬𝑵𝑬𝑹𝑨𝑳
+
+  [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`]
