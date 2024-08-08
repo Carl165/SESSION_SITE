@@ -36,9 +36,18 @@ Get session 🆔 for your bots from this site
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗙𝗢𝗥+𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡+𝗦𝗣𝗔𝗥𝗞+𝗠𝗗)](https://git.io/typing-svg)
 
+  1:𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑰𝑫 𝑩𝒀 𝑺𝑪𝑨𝑵𝑵𝑰𝑵𝑮 𝑸𝑹 𝑼𝑺𝑰𝑵𝑮 𝑬𝑿𝑻𝑬𝑹𝑵𝑨𝑳 𝑷𝑯𝑶𝑵𝑬 𝑪𝑨𝑴𝑬𝑹𝑨
 
- [`TAP HERE`](https://cyberionsparkmd-68c4a6459d3b.herokuapp.com)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`]
+
+  2:𝑻𝑶 𝑮𝑬𝑻 𝑺𝑬𝑺𝑨𝑰𝑶𝑵 𝑰𝑫 𝑩𝒀 𝑼𝑺𝑬 𝑶𝑭 𝑷𝑨𝑰𝑹𝑰𝑵𝑮 𝑪𝑶𝑫𝑬𝑺
+
+   [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`]
+
+   3:𝑻𝑶 𝑮𝑬𝑻 𝑨𝑳𝑳 𝑺𝑬𝑺𝑺𝑰𝑶𝑵𝑺 𝑰𝑵 𝑮𝑬𝑵𝑬𝑹𝑨𝑳
+   
+   [`TAP HERE`](https://cyberionsparkmd-68c4a6459d3b.herokuapp.com)
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
