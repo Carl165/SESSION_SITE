@@ -15,7 +15,8 @@ Get session 🆔 for your bots from this site
  
   1 𝑺𝑪𝑨𝑵𝑵𝑰𝑵𝑮 𝑸𝑹 𝑪𝑶𝑫𝑬 𝑾𝑰𝑻𝑯 𝑨𝑵 𝑬𝑿𝑻𝑬𝑹𝑵𝑨𝑳 𝑷𝑯𝑶𝑵𝑬 𝑪𝑨𝑴𝑬𝑹𝑨
   
-  [`𝐓𝐀𝐏 𝐇𝐄𝐑𝐄`](https://carlsharkmd-15a24b45fb87.herokuapp.com/qr)
+  <https://carlsharkmd-15a24b45fb87.herokuapp.com/qr><img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
 
   1:𝑳𝑰𝑵𝑲𝑰𝑵𝑮 𝑽𝑰𝑨 𝑷𝑨𝑰𝑹 𝑪𝑶𝑫𝑬𝑺
   
